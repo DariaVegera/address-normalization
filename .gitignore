@@ -1,0 +1,12 @@
+models/llm_mistral.json
+.env
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+.env
+models/*.pt
+models/*.pkl
+.streamlit/
